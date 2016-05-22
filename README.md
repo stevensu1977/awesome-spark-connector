@@ -27,7 +27,7 @@ Many NoSQl or Database project provid connector, can be used in spark(RDD,SparkS
 * [Redis connector](https://github.com/RedisLabs/spark-redis)
 * [ElasticSearch Hadoop connector](https://www.elastic.co/downloads/hadoop), 
 * [Mongo Hadoop connector](https://github.com/mongodb/mongo-hadoop/wiki/Spark-Usage)
-
+* [HBase connector](https://github.com/nerdammer/spark-hbase-connector)
 
 ---
 
